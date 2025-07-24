@@ -5,7 +5,7 @@ tags:
     - Nio
     - Java
 categories: NIO
-cover: http://syi4w5o08.hn-bkt.clouddn.com/picgo/20250708230348.png
+cover: https://cdn.pixabay.com/photo/2019/10/18/14/42/technology-4559283_640.jpg
 ---
 
 
