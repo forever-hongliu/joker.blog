@@ -8,7 +8,9 @@ subtitle: 'Secret Garden'
 description: '个人的博客网站，知识沉淀分享'
 keywords: java,ai,rag,mcp,agent
 author: Joker.liu
-language: cn
+language:
+  - zh-CN
+  - en-US
 timezone: 'Asia/Shanghai'
 
 # URL

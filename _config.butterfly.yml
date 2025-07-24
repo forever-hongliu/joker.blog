@@ -57,42 +57,40 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/avatar-icon.jpeg
+  img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxmaYTn2Chgl8UBxmgRJHjx4tN5Qbo0I9wAQ&s
   effect: false
 
 # Disable all banner images
 disable_top_img: false
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img: /img/screenshot-20250724-105048.png
+default_top_img: https://cdn.pixabay.com/photo/2017/07/10/23/45/cubes-2492010_1280.jpg
 # The banner image of index page
-index_img: /img/screenshot-20250724-105048.png
-
+index_img: https://cdn.pixabay.com/photo/2017/07/10/23/45/cubes-2492010_1280.jpg
 # The banner image of archive page
-archive_img: /img/screenshot-20250724-105048.png
-
+archive_img: https://cdn.pixabay.com/photo/2017/07/10/23/45/cubes-2492010_1280.jpg
 # Note: tag page, not tags page
-tag_img: /img/screenshot-20250724-105048.png
+tag_img: https://cdn.pixabay.com/photo/2017/07/10/23/45/cubes-2492010_1280.jpg
 
 # The banner image of tag page, you can set the banner image for each tag
 # Format:
 #  - tag name: xxxxx
-tag_per_img: /img/screenshot-20250724-105048.png
+tag_per_img:
 
 # Note: category page, not categories page
-category_img: /img/screenshot-20250724-105048.png
+category_img:
 
 # The banner image of category page, you can set the banner image for each category
 # Format:
 #  - category name: xxxxx
-category_per_img: /img/screenshot-20250724-105048.png
+category_per_img:
 
 # The background image of footer
-footer_img: true
+footer_img: https://cdn.pixabay.com/photo/2024/12/26/05/25/ai-generated-9291322_1280.jpg
 
 # Website Background
 # Can set it to color or image url
-background: 
+background: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49ZxZe152WUBXCtDMpH-qCtP8NanOimeNyw&s
 
 cover:
   # Disable the cover or not
@@ -291,7 +289,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/forever-liu
   card_announcement:
     enable: true
     content: This is my Blog
@@ -375,10 +373,6 @@ translate:
   msgToTraditionalChinese: '繁'
   # The text of the button when the language is Traditional Chinese
   msgToSimplifiedChinese: '簡'
-
-language:
-  - zh-CN
-  - en
 
 
 # Read Mode
