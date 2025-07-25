@@ -103,7 +103,14 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: butterfly
 
+# Mermaid diagrams
+mermaid:
+  enable: true
+  version: "10.6.1"
+  options:
+    theme: default
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: ''# Mermaid diagrams

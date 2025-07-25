@@ -6,7 +6,7 @@ tags:
   - Langchain4j
   - Java
 categories: MCP
-cover: src="https://cdn.pixabay.com/photo/2019/10/19/14/46/tech-4561577_640.jpg"
+cover: https://cdn.pixabay.com/photo/2019/10/19/14/46/tech-4561577_640.jpg
 ---
 
 
