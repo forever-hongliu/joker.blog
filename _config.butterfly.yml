@@ -162,9 +162,9 @@ subtitle:
   source: false
   # If you close the typewriter effect, the subtitle will only show the first line of sub
   sub:
-    - 欢迎来到我的博客
-    - Welcome to my blog
-    - 分享技术与生活
+    - 欢迎来到我的秘密花园
+    - Welcome to my secret garden
+    - 让我们一起愉快的讨论病情吧
 
 # Article layout on the homepage
 # 1: Cover on the left, info on the right
