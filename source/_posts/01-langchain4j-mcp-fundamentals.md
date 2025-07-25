@@ -1,10 +1,11 @@
 ---
 title: 01-LangChain4j MCP Client 基础入门
-date: 2025-07-25 00:13:07
+date: 2025-07-25 10:23:31
 tags:
   - MCP
   - Langchain4j
   - Java
+  - Fundamentals
 categories: MCP
 cover: https://cdn.pixabay.com/photo/2024/10/11/15/58/wallpaper-9113436_1280.png
 ---
@@ -696,6 +697,7 @@ public class McpClientMetrics {
 1. **[第二篇：LangChain4j MCP 高级特性与工具开发](02-langchain4j-mcp-advanced.md)**
 2. **[第三篇：LangChain4j MCP 生产环境实践](03-langchain4j-mcp-production.md)**
 3. **[第四篇：LangChain4j MCP 性能优化与监控](04-langchain4j-mcp-performance.md)**
+4. **[第五篇：LangChain4j MCP 测试策略与质量保证](05-langchain4j-mcp-testing.md)**
 
 ## 📚 参考资源
 

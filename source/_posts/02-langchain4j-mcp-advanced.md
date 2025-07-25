@@ -1,10 +1,11 @@
 ---
-title: LangChain4j MCP 高级特性与工具开发
-date: 2025-07-25 10:06:23
+title: 02-LangChain4j MCP 高级特性与工具开发
+date: 2025-07-25 12:10:51
 tags:
   - MCP
   - Langchain4j
   - Java
+  - Advanced
 categories: MCP
 cover: https://cdn.pixabay.com/photo/2019/10/19/14/46/tech-4561577_640.jpg
 ---
@@ -998,10 +999,4 @@ public class McpObservabilityManager {
 
 1. **[第三篇：LangChain4j MCP 生产环境实践](03-langchain4j-mcp-production.md)**
 2. **[第四篇：LangChain4j MCP 性能优化与监控](04-langchain4j-mcp-performance.md)**
-
----
-
-**作者**: LangChain4j 技术团队  
-**创建时间**: 2024-12-04  
-**文档版本**: 1.0  
-**适用读者**: 高级 Java 开发者，架构师
+3. **[第五篇：LangChain4j MCP 测试策略与质量保证](05-langchain4j-mcp-testing.md)**

@@ -11,7 +11,7 @@
 
 nav:
   # Navigation bar logo image
-  logo:
+  logo: /img/log.jpeg
   display_title: true
   display_post_title: true
   # Whether to fix navigation bar
@@ -54,7 +54,7 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/favicon.png
+favicon: /img/log.jpeg
 
 avatar:
   img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxmaYTn2Chgl8UBxmgRJHjx4tN5Qbo0I9wAQ&s
@@ -292,7 +292,36 @@ aside:
       link: https://github.com/forever-liu
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: |
+      <div style="text-align: center;">
+        <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
+          <img src="/img/log.jpeg" alt="网站Logo" style="width: 40px; height: 40px; border-radius: 6px; margin-right: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+          <div style="
+            font-family: 'Georgia', 'Times New Roman', serif;
+            font-size: 1.3em;
+            font-weight: 900;
+            background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #feca57, #ff9ff3);
+            background-size: 400% 400%;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            animation: gradientShift 3s ease-in-out infinite;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+            letter-spacing: 1px;
+            line-height: 1.2;
+          ">Joker.liu Secret Garden</div>
+        </div>
+        <img src="/img/vx.jpg" alt="微信二维码" style="max-width: 150px; height: auto; border-radius: 8px; margin-bottom: 10px;">
+        <p style="margin: 8px 0; color: #666; font-size: 0.9em;">扫码添加微信，交流一下病情</p>
+        <style>
+          @keyframes gradientShift {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+          }
+        </style>
+      </div>
+    button:
   card_recent_post:
     enable: true
     # If set 0 will show all
