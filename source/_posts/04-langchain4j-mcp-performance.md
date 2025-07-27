@@ -1292,5 +1292,5 @@ public class IntelligentAlertManager {
 
 完成性能优化与监控学习后，建议继续深入：
 
-1. **[第五篇：LangChain4j MCP 测试策略与质量保证](05-langchain4j-mcp-testing.md)**
-2. **[LangChain4j MCP 技术总结与最佳实践](langchain4j-mcp-summary.md)**
+1. **[第五篇：LangChain4j MCP 测试策略与质量保证](/posts/05-langchain4j-mcp-testing)**
+2. **[终篇: LangChain4j MCP 技术总结与最佳实践](/posts/06-langchain4j-mcp-summary)**

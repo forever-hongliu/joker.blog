@@ -997,6 +997,7 @@ public class McpObservabilityManager {
 
 完成高级特性学习后，建议继续深入：
 
-1. **[第三篇：LangChain4j MCP 生产环境实践](03-langchain4j-mcp-production.md)**
-2. **[第四篇：LangChain4j MCP 性能优化与监控](04-langchain4j-mcp-performance.md)**
-3. **[第五篇：LangChain4j MCP 测试策略与质量保证](05-langchain4j-mcp-testing.md)**
+1. **[第三篇：LangChain4j MCP 生产环境实践](/posts/03-langchain4j-mcp-production/)**
+2. **[第四篇：LangChain4j MCP 性能优化与监控](/posts/04-langchain4j-mcp-performance/)**
+3. **[第五篇：LangChain4j MCP 测试策略与质量保证](/posts/05-langchain4j-mcp-testing/)**
+4. **[终篇: LangChain4j MCP 技术总结与最佳实践](/posts/06-langchain4j-mcp-summary/)**

@@ -1188,7 +1188,8 @@ public class AutoRecoveryManager {
 
 完成生产环境实践学习后，建议继续深入：
 
-1. **[第四篇：LangChain4j MCP 性能优化与监控](04-langchain4j-mcp-performance.md)**
-2. **[第五篇：LangChain4j MCP 测试策略与质量保证](05-langchain4j-mcp-testing.md)**
+1. **[第四篇：LangChain4j MCP 性能优化与监控](/posts/04-langchain4j-mcp-performance)**
+2. **[第五篇：LangChain4j MCP 测试策略与质量保证](/posts/05-langchain4j-mcp-testing)**
+3. **[终篇: LangChain4j MCP 技术总结与最佳实践](/posts/06-langchain4j-mcp-summary)**
 
 

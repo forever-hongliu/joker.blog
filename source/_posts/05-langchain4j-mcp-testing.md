@@ -1159,4 +1159,4 @@ public class ContinuousQualityMonitor {
 
 完成性能优化与监控学习后，建议继续深入：
 
-1. **[LangChain4j MCP 技术总结与最佳实践](langchain4j-mcp-summary.md)**
+1. **[终篇: LangChain4j MCP 技术总结与最佳实践](/posts/06-langchain4j-mcp-summary)**

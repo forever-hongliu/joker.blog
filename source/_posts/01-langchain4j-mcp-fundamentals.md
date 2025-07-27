@@ -694,10 +694,11 @@ public class McpClientMetrics {
 
 在掌握了 LangChain4j MCP Client 的基础知识后，建议继续学习：
 
-1. **[第二篇：LangChain4j MCP 高级特性与工具开发](02-langchain4j-mcp-advanced.md)**
-2. **[第三篇：LangChain4j MCP 生产环境实践](03-langchain4j-mcp-production.md)**
-3. **[第四篇：LangChain4j MCP 性能优化与监控](04-langchain4j-mcp-performance.md)**
-4. **[第五篇：LangChain4j MCP 测试策略与质量保证](05-langchain4j-mcp-testing.md)**
+1. **[第二篇：LangChain4j MCP 高级特性与工具开发](/posts/02-langchain4j-mcp-advanced/)**
+2. **[第三篇：LangChain4j MCP 生产环境实践](/posts/03-langchain4j-mcp-production/)**
+3. **[第四篇：LangChain4j MCP 性能优化与监控](/posts/04-langchain4j-mcp-performance/)**
+4. **[第五篇：LangChain4j MCP 测试策略与质量保证](/posts/05-langchain4j-mcp-testing/)**
+5. **[终篇: LangChain4j MCP 技术总结与最佳实践](/posts/06-langchain4j-mcp-summary/)**
 
 ## 📚 参考资源
 
